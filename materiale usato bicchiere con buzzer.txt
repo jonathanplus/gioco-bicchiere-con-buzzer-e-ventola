@@ -1,0 +1,52 @@
+MATERIALI UTILIZZATI
+
+ARDUINO NANO 2.42 EURO
+
+https://it.aliexpress.com/item/4000587268145.html?spm=a2g0o.productlist.0.0.58d05ce3FzlJ0r&algo_pvid=0839dbfc-1127-4b61-a17e-497ca9b3a8a9&algo_expid=0839dbfc-1127-4b61-a17e-497ca9b3a8a9-19&btsid=69cecc3c-33e2-44e8-ad48-be69e511562c&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+convertidore dc dc LM2596HVS 1.02 euro
+
+https://it.aliexpress.com/item/32842453339.html?spm=a2g0o.productlist.0.0.489821c2CYe6Nk&algo_pvid=d97c4bec-cef3-4bd9-8f6b-2463940fadec&algo_expid=d97c4bec-cef3-4bd9-8f6b-2463940fadec-5&btsid=6fc98138-3b57-40c3-a989-8ccbc3092542&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+sensore ir distanza ostacolo 10pz 7.45 euro
+
+https://it.aliexpress.com/item/32843836738.html?spm=a2g0s.9042311.0.0.135a4c4dSWnLaH
+
+transistor npn 2222 20pz 2.45
+
+https://it.aliexpress.com/item/32856312651.html?spm=a2g0o.productlist.0.0.603f2522amq5m6&algo_pvid=d4422d13-35dd-43b4-972a-71a3f69dae42&algo_expid=d4422d13-35dd-43b4-972a-71a3f69dae42-1&btsid=50c6f2f6-808b-4d69-b5a7-8d15e6e3783b&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+resistenze 600pz 3 euro
+
+https://it.aliexpress.com/item/32636020144.html?spm=a2g0o.detail.1000060.1.5454765dyh1Mxf&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=9f7ecdaa-e479-4710-90b0-1e3703408112
+
+buzzer 0.20 euro
+https://it.aliexpress.com/item/4000204143503.html?spm=a2g0o.productlist.0.0.4f377473qbVNzE&algo_pvid=64c1a225-7155-4882-bf5f-41a89d21b1a4&algo_expid=64c1a225-7155-4882-bf5f-41a89d21b1a4-7&btsid=cd182702-8499-486d-b553-b09afcedbfdb&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+ventola 2 euro
+
+https://it.aliexpress.com/item/4000538404771.html?spm=a2g0o.productlist.0.0.4b9e4f16klvkth&algo_pvid=b66aec0a-1bea-4003-8c4a-ac1bba153f89&algo_expid=b66aec0a-1bea-4003-8c4a-ac1bba153f89-35&btsid=9a1fa482-3952-44e1-8e29-e9177636cebb&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+interruttore 10pz 0.72 euro
+
+https://it.aliexpress.com/item/32933150164.html?spm=a2g0s.9042311.0.0.27424c4dOHwsUY
+
+porta batteria 18650 1.10 euro
+
+https://it.aliexpress.com/item/33037738446.html?spm=a2g0o.productlist.0.0.58cb6564PsaoyS&algo_pvid=19c03363-90bf-4708-bb9e-449ea31f66c3&algo_expid=19c03363-90bf-4708-bb9e-449ea31f66c3-0&btsid=a7b057a8-9024-4dbb-a745-09ce137f080b&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
+
+18650 samsung 10 euro
+
+https://www.ebay.it/itm/2x-Samsung-ICR-18650-26J-Li-Ion-Akku-2600-mAh-3-7V-Akkubox-Lithium-26H-26F/291397525919?hash=item43d8a5619f:g:zjMAAOSwa0ddn0OV
+
+led rgb 50pz 1.83
+
+https://it.aliexpress.com/item/32809489418.html?spm=a2g0s.9042311.0.0.27424c4d1WzmU7
+
+viti 3*12 testa a brugola
+
+boccole 3*6
+
+
+
+
