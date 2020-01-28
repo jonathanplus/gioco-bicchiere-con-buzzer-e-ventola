@@ -8,9 +8,9 @@ convertidore dc dc LM2596HVS 1.02 euro
 
 https://it.aliexpress.com/item/32842453339.html?spm=a2g0o.productlist.0.0.489821c2CYe6Nk&algo_pvid=d97c4bec-cef3-4bd9-8f6b-2463940fadec&algo_expid=d97c4bec-cef3-4bd9-8f6b-2463940fadec-5&btsid=6fc98138-3b57-40c3-a989-8ccbc3092542&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53
 
-sensore ir distanza ostacolo 10pz 7.45 euro
+sensore ir distanza ostacolo 0.56
 
-https://it.aliexpress.com/item/32843836738.html?spm=a2g0s.9042311.0.0.135a4c4dSWnLaH
+https://m.it.aliexpress.com/s/item/33011827238.html?src=google&_randl_currency=EUR&_randl_shipto=IT&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&albcp=1691306153&albag=64902423734&trgt=743612850714&crea=it33011827238&netw=u&device=m&gclid=CjwKCAiA1L_xBRA2EiwAgcLKAxCHqf9WYqOtw6SLVW5WEYWmyAngZOqC7rAVsHVeHVlHqzQHqB30uxoCh64QAvD_BwE
 
 transistor npn 2222 20pz 2.45
 
@@ -46,6 +46,8 @@ https://it.aliexpress.com/item/32809489418.html?spm=a2g0s.9042311.0.0.27424c4d1W
 viti 3*12 testa a brugola
 
 boccole 3*6
+
+Prezzo totale 25.3
 
 
 
